@@ -6,3 +6,7 @@
 
 3. 签到并发送通知
 
+cookie格式：pt_key=123456;pt_pin=987565;
+
+search in editthiscookie
+
